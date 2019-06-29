@@ -1,5 +1,8 @@
-# library-react
-just un readme des library que j'utilise ou que j'ai testé
+# library
 
-#library components
-https://bulma.io/
+
+un petit tour des librairies que j'ai utilisé, que j'utilise dans le cadre de mon activité professionnelle et dans mon cadre perso
+
+chaque branche represente un langage
+
+le master ne represente donc rien
