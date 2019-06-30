@@ -26,3 +26,10 @@ just un readme des library que j'utilise ou que j'ai testé
 ## rest 
 
 - jersey https://jersey.github.io/
+
+
+## requete 
+- Query DSL
+- Spring Data JPA @Query
+- JPQL
+- PLSQL
