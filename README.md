@@ -3,17 +3,17 @@ les library que j'utilise ou que j'ai testé
 
 # projets
 
-- javascript 
-- typescript
+- javascript https://developer.mozilla.org/fr/docs/Web/JavaScript/Language_Resources
+- typescript https://www.typescriptlang.org/
 
 # library components
 
-- https://bulma.io/
-
+- bulma https://bulma.io/
+- formik https://jaredpalmer.com/formik/
 
 # data
 
-- https://redux.js.org/
+- redux https://redux.js.org/
 
 
 
