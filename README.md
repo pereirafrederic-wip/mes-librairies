@@ -1,7 +1,7 @@
 # library-react
 les library que j'utilise ou que j'ai testé
 
-# projets
+# langage associé
 
 - javascript https://developer.mozilla.org/fr/docs/Web/JavaScript/Language_Resources
 - typescript https://www.typescriptlang.org/
