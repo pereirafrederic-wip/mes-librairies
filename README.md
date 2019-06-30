@@ -1,4 +1,4 @@
-# library-react
+# library-react-native
 les library que j'utilise ou que j'ai testé
 
 # components
