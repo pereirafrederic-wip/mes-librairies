@@ -10,6 +10,7 @@ les library que j'utilise ou que j'ai testé
 
 - bulma https://bulma.io/
 - formik https://jaredpalmer.com/formik/
+- awesome-react-components https://github.com/brillout/awesome-react-components/blob/master/README.md
 
 # data
 
