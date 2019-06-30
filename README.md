@@ -12,6 +12,10 @@ les library que j'utilise ou que j'ai testé
 - formik https://jaredpalmer.com/formik/
 - awesome-react-components https://github.com/brillout/awesome-react-components/blob/master/README.md
 
+# icon 
+- react-icons https://react-icons.netlify.com/#/icons/md
+- materialdesignicons https://materialdesignicons.com/
+
 # data
 
 - redux https://redux.js.org/
