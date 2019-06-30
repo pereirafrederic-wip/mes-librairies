@@ -1,19 +1,9 @@
 # library-react
 les library que j'utilise ou que j'ai testé
 
-# langage associé
+# components
 
-- javascript https://developer.mozilla.org/fr/docs/Web/JavaScript/Language_Resources
-- typescript https://www.typescriptlang.org/
-
-# library components
-
-- bulma https://bulma.io/
-- formik https://jaredpalmer.com/formik/
-
-# data
-
-- redux https://redux.js.org/
+- https://blog.bitsrc.io/11-react-native-component-libraries-you-should-know-in-2018-71d2a8e33312
 
 
 
