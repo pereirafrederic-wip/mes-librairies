@@ -80,12 +80,18 @@
 - Bootstrap
 
 ## Back end
+- java
 - kotlin
-- nodeJs
+- nestJs
+- expressJs
+- KoaJes
 
 ## Base de donnée
 - noSql
 - mongoDB
+- sequelize
+
+
 ## Package manager
  - yarn
  - bower
