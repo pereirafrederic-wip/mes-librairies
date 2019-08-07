@@ -105,3 +105,4 @@
 - Docker
 - mongoDB
 - kubernetes
+- class-validator = https://github.com/typestack/class-validator
