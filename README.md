@@ -6,8 +6,9 @@
 - Bizagi
 
 # Langages
--Java 8 
+- Java 8 
 - JavaScript
+- typescript
 - Exts Js 5.2
 - Angularjs 1.7
 - ReactJs  16.6 + typescript 3.5
@@ -32,7 +33,8 @@
 - Geda
 - Dozer mapper
 - Query DSL
-- Promotheus metric, 
+- Promotheus metric
+
 
 # Outils de développement
 - Jenkins
@@ -49,6 +51,7 @@
 # Systèmes d’exploitation
 - Windows
 - Unix
+
 # Test unitaire
 - Junit
 - Mockito
@@ -80,17 +83,15 @@
 - Bootstrap
 
 ## Back end
-- java
 - kotlin
 - nestJs
 - expressJs
-- KoaJes
+- KoaJs
 
 ## Base de donnée
 - noSql
 - mongoDB
 - sequelize
-
 
 ## Package manager
  - yarn
@@ -103,3 +104,4 @@
 ## Intérêt futur
 - Docker
 - mongoDB
+- kubernetes
