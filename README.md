@@ -1,12 +1,12 @@
 
-# nestNs
+# nestJs
 - https://docs.nestjs.com
 - https://github.com/pereirafrederic/nest-js 
 
-# express
+# expressJs
 - https://expressjs.com/fr/
 - https://github.com/pereirafrederic/backend-js
 
-# koa 
+# koaJs
 - https://koajs.com/
 - https://github.com/pereirafrederic/backend-js
