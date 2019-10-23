@@ -1,6 +1,7 @@
 
 # Méthodologie
-- Agile
+- Agile scrum
+- Agile kanban
 
 # Modélisation, conception
 - Bizagi
@@ -11,16 +12,13 @@
 - typescript
 - Exts Js 5.2
 - Angularjs 1.7
-- ReactJs  16.6 + typescript 3.5
+- ReactJs  16.6
 - Html
 - Css
-- sass
+- Sass
 
 # Frameworks / librairies / API
 - Maven
-- Spring
-- Spring-data
-- Spring batch
 - Ireport
 - Jasper report
 - Hibernate
@@ -34,6 +32,13 @@
 - Dozer mapper
 - Query DSL
 - Promotheus metric
+
+# Spring framework
+- Spring-data
+- Spring batch
+- Spring security
+- Spring session
+- 
 
 
 # Outils de développement
@@ -79,14 +84,24 @@
 ## Front end 
 - Angular 8 
 - VueJs 2
+
+### mobile
 - react native
+
+### CSS
 - Bootstrap
 
+### component
+https://www.codeinwp.com/blog/react-ui-component-libraries-frameworks/
+- bulma
+- ant design
+- material UI https://material-ui.com/
+
 ## Back end
-- kotlin
 - nestJs
 - expressJs
 - KoaJs
+- kotlin
 
 ## Base de donnée
 - noSql
@@ -101,8 +116,8 @@
 - Gulp
 - webpack
 
-## Intérêt futur
+# Intérêt futur
 - Docker
-- mongoDB
 - kubernetes
+- mongoDB
 - class-validator = https://github.com/typestack/class-validator
