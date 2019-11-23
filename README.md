@@ -5,40 +5,72 @@
 
 # Modélisation, conception
 - Bizagi
+- jhipster
 
-# Langages
-- Java 8 
+# Langages back
+- Java 
+- kotlin
+
+# langage front
+- Html
 - JavaScript
 - typescript
-- Exts Js 5.2
-- Angularjs 1.7
-- ReactJs  16.6
-- Html
+
+# framework front end JS
+- Exts Js
+- Angularjs 
+- ReactJs 
+
+
+# CSS
 - Css
 - Sass
+- flexbox
 
 # Frameworks / librairies / API
-- Maven
-- Ireport
-- Jasper report
-- Hibernate
+
+## gestion montée de version base de donnée
 - Flyway
 - Liquidbase
-- Pdfbox
-- queue Jms
+
+## Queries
+- JPA
+- Hibernate 
+- Query DSL
+
+## REST 
 - restEasy
 - Jersey
+
+# Edition 
+- Ireport
+- Jasper report
+- Pdfbox
+
+## Dependance
+- maven
+- gradle
+
+## Mapper
 - Geda
 - Dozer mapper
-- Query DSL
-- Promotheus metric
+- mapStruct
 
-# Spring framework
-- Spring-data
+## jms
+- 
+
+
+## soap
+- soap ui
+
+
+## Spring framework
+- Spring data
 - Spring batch
 - Spring security
 - Spring session
-- 
+- Spring boot
+- Spring AOP
 
 
 # Outils de développement
@@ -65,59 +97,96 @@
 - openPojo
 
 # IDE
-- Eclips
+- Eclipse
 - ATOM
 - Visual studio Code
 - Intellij
 
-# Autres
+# gestion logs
+- Logback
+- Log4J
+- Kibana
+- Elasticsearch
+- logstash
 
+# monitoring
+- collectD
+- Promotheus
+- graphana
+- Promotheus metric
+ 
+ # documentation
+ - swagger documentation
+
+# Autres
 - Github
 - git
-- Kibana-Elasticsearch
+- gitLab
+
+# Bugs
 - Quality Center
 - Isilog IWS
+
+# deploiement
 - AWS
-- swagger documentation
+- Heroku
+
+## Package manager
+ - npm
+
 
 # VEILLE TECHNOLOGIE ET INTÉRÊT	
 ## Front end 
 - Angular 8 
 - VueJs 2
 
-### mobile
-- react native
 
 ### CSS
 - Bootstrap
+- fontawesome
 
-### component
-https://www.codeinwp.com/blog/react-ui-component-libraries-frameworks/
+#### component
+- React Bootstrap
 - bulma
 - ant design
-- material UI https://material-ui.com/
+- material UI 
+- blueprintjs
 
-## Back end
+## developpement mobile
+- react native
+- Flutter
+- Dart
+
+## Back end JS
 - nestJs
 - expressJs
 - KoaJs
+
+## back end 
 - kotlin
 
-## Base de donnée
-- noSql
+## Base de donnée nosql
 - mongoDB
 - sequelize
+- firebase
 
 ## Package manager
  - yarn
  - bower
  
-## Autres
+## tools
 - Gulp
 - webpack
+- bazel
 
-# Intérêt futur
+# Container
 - Docker
 - kubernetes
-- mongoDB
+
+# Envirronnement
+- Ansible
+- puppet
+- chef
+
+# Autres
 - class-validator = https://github.com/typestack/class-validator
